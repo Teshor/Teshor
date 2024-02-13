@@ -1,7 +1,7 @@
 ![Header](github.png)
 
 <h1 align="center">Hello world 👋, I'm Jakub</h1>
-<h3 align="center">Welcome to my github profile! I'm from Poland. I'm student of secondary school, and after lessons I learn programming, because I love that. I'm going to be professional developer and build big pro apps, that will be able to help people.</h3>
+<h3 align="center">Here will be fancy description</h3>
 
 - 🌱 I’m currently learning **Python Programming MOOC 2023**
 
